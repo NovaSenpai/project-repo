@@ -1,0 +1,43 @@
+  5678                                    1984                 GEORGE ORWELL                DYSTOPIAN               AVAILABLE 
+  3456                THE CHRONICLES OF NARNIA                    C.S. LEWIS                  FANTASY               AVAILABLE 
+  2109                              THE HOBBIT                J.R.R. TOLKIEN                ADVENTURE               AVAILABLE 
+  1122                      THE ROAD NOT TAKEN                  ROBERT FROST                   POETRY               AVAILABLE 
+  1099                           THE ALCHEMIST                  PAULO COELHO    PHILOSOPHICAL FICTION               AVAILABLE 
+  1010                  THE GREAT EXPECTATIONS               CHARLES DICKENS                 CLASSICS               AVAILABLE 
+  1111                       THE METAMORPHOSIS                   FRANZ KAFKA                  SURREAL               AVAILABLE 
+  1234                   TO KILL A MOCKINGBIRD                    HARPER LEE                  FICTION            NOT AVAILABLE
+  2020                    A TALE OF TWO CITIES               CHARLES DICKENS       HISTORICAL FICTION               AVAILABLE 
+  2345              THE PICTURE OF DORIAN GRAY                   OSCAR WILDE                   GOTHIC               AVAILABLE 
+  2211                THE SHAWSHANK REDEMPTION                  STEPHEN KING                    DRAMA               AVAILABLE 
+  2222                  THE BROTHERS KARAMAZOV             FYODOR DOSTOEVSKY            PHILOSOPHICAL               AVAILABLE 
+  3333                               THE ILIAD                         HOMER              EPIC POETRY               AVAILABLE 
+  3030             THE HUNCHBACK OF NOTRE-DAME                   VICTOR HUGO                   GOTHIC               AVAILABLE 
+  3344                             THE ODYSSEY                         HOMER                     EPIC               AVAILABLE 
+  4567           ONE HUNDRED YEARS OF SOLITUDE      GABRIEL GARCíA MáRQUEZ          MAGICAL REALISM               AVAILABLE 
+  4433                     SLAUGHTERHOUSE-FIVE                 KURT VONNEGUT                   SATIRE               AVAILABLE 
+  4321                   THE LORD OF THE RINGS                J.R.R. TOLKIEN                  FANTASY               AVAILABLE 
+  4040                    THE THREE MUSKETEERS               ALEXANDRE DUMAS       HISTORICAL FICTION               AVAILABLE 
+  4444                             THE ODYSSEY                         HOMER              EPIC POETRY               AVAILABLE 
+  5555   PERCY JACKSON AND THE LIGHTNING THIEF                  RICK RIORDAN                  FANTASY               AVAILABLE 
+  5432                     PRIDE AND PREJUDICE                   JANE AUSTEN                  ROMANCE               AVAILABLE 
+  5050                   THE WAR OF THE WORLDS                    H.G. WELLS          SCIENCE FICTION               AVAILABLE 
+  5566           ONE HUNDRED YEARS OF SOLITUDE        GABRIEL GARCIA MARQUEZ          MAGICAL REALISM               AVAILABLE 
+  7890                  THE CATCHER IN THE RYE                 J.D. SALINGER            COMING OF AGE               AVAILABLE 
+  6789                         THE KITE RUNNER               KHALED HOSSEINI       HISTORICAL FICTION               AVAILABLE 
+  6655    THE HITCHHIKER'S GUIDE TO THE GALAXY                 DOUGLAS ADAMS          SCIENCE FICTION               AVAILABLE 
+  6543   HARRY POTTER AND THE SORCERER'S STONE                  J.K. ROWLING                  FANTASY               AVAILABLE 
+  6060                       THE INVISIBLE MAN                    H.G. WELLS          SCIENCE FICTION               AVAILABLE 
+  6666         THE GIRL WITH THE DRAGON TATTOO                 STIEG LARSSON                  MYSTERY               AVAILABLE 
+  7777                           THE ALCHEMIST                  PAULO COELHO    PHILOSOPHICAL FICTION               AVAILABLE 
+  7070                  THE HAND OF ETHELBERTA                  THOMAS HARDY                   SATIRE               AVAILABLE 
+  7788                                THE ROAD               CORMAC MCCARTHY         POST-APOCALYPTIC               AVAILABLE 
+  8901                     THE HANDMAID'S TALE               MARGARET ATWOOD                DYSTOPIAN               AVAILABLE 
+  8877                               MOBY-DICK               HERMAN MELVILLE                ADVENTURE               AVAILABLE 
+  8765                       THE DA VINCI CODE                     DAN BROWN                  MYSTERY               AVAILABLE 
+  8080         AROUND THE WORLD IN EIGHTY DAYS                   JULES VERNE                ADVENTURE               AVAILABLE 
+  8888                 THE WIND IN THE WILLOWS               KENNETH GRAHAME    CHILDREN'S LITERATURE               AVAILABLE 
+  9900                               JANE EYRE              CHARLOTTE BRONTE                   GOTHIC               AVAILABLE 
+  9876                        THE GREAT GATSBY           F. SCOTT FITZGERALD                  CLASSIC               AVAILABLE 
+  9090       THE ADVENTURES OF SHERLOCK HOLMES            ARTHUR CONAN DOYLE                  MYSTERY               AVAILABLE 
+  9999                          THE ART OF WAR                       SUN TZU               PHILOSOPHY               AVAILABLE 
+   666                                     C++                         HAMID                  FANTASY               AVAILABLE 
